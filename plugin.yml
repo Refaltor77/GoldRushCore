@@ -1,0 +1,12 @@
+name: GoldrushCore
+main: core\Main
+author: goldrush
+version: 3.0.0
+api: 5.0.0
+depend:
+  - Customies
+  - GoldRush-core-pvp # core privé pour le moment
+authors:
+  - refaltor77
+  - theohdg2
+  - achedon12

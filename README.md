@@ -1,3 +1,5 @@
+<img src="img.png">
+
 # Projet GoldRush - Open Source
 
 Bienvenue dans le projet GoldRush ! Ceci est la partie technique de notre projet, et nous sommes ravis de partager notre code source avec la communauté open source. Vous êtes libre de reprendre le code, de contribuer à son amélioration et même de l'utiliser à des fins d'apprentissage. Cependant, veuillez noter que toute forme de revente est strictement interdite.

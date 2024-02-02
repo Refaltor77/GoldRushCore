@@ -1,4 +1,4 @@
-<img src="img.png">
+![GoldRush](https://github.com/Refaltor77/GoldRushCore/img.png)
 
 # Projet GoldRush - Open Source
 

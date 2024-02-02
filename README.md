@@ -36,3 +36,7 @@ Pour toute question ou commentaire, n'hésitez pas à nous contacter à refaltor
 
 
 Discord : https://discord.gg/ZmNmkjVsNX
+
+
+
+Merci pour tout !

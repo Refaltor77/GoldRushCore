@@ -21,7 +21,7 @@ Le répertoire est organisé de la manière suivante :
 
 ## Contributions
 
-Nous accueillons les contributions de la communauté ! Si vous souhaitez contribuer, veuillez consulter notre guide de contribution [CONTRIBUTING.md] pour plus d'informations.
+Nous accueillons les contributions de la communauté !
 
 
 ## Contact
